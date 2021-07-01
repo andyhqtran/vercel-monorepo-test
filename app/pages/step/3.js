@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-export default function Step3Page() {
+export default function StepThreePage() {
   return (
     <>
       Dashboard page
